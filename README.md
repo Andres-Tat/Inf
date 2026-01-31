@@ -6,7 +6,7 @@
 ![Header](https://github.com/Andres-Tat/Andres-Tat/blob/main/assets/Header.png) 
  
 
-## I'm Golang Developer
+## I'm iOS Developer
 
 <img src=https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGNraWI0eml3bHBoMGdkYXkzMDl5YXlzc2pnNnlvZTRmc2VxazJhZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/fQZX2aoRC1Tqw/giphy.gif>
 
@@ -15,7 +15,6 @@
 
 ## Languages and Tools
 
-![Golang](https://img.shields.io/badge/-Golang-090909?style=for-the-badge&logo=Golang&logoColor=#007D9C)
 ![vscode](https://img.shields.io/badge/-VSCode-090909?style=for-the-badge&logo=VisualStudio&logoColor=3aa3e9)
 ![Docker](https://img.shields.io/badge/-Docker-090909?style=for-the-badge&logo=Docker&logoColor=2496ed)
 ![Linux](https://img.shields.io/badge/-Linux-090909?style=for-the-badge&logo=Linux&logoColor=f7b614)
